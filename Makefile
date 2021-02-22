@@ -1,4 +1,3 @@
-CC=clang
 CFLAGS=-Wall -O2 -Iinclude -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE=1
 LDFLAGS=-lz
 RM=rm -f
